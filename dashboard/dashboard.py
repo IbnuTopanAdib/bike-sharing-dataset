@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 plt.style.use('tableau-colorblind10')
 
-day_data = pd.read_csv('day.csv')
-hour_data = pd.read_csv('hour.csv')
+day_data = pd.read_csv(r"dashboard/day.csv")
+hour_data = pd.read_csv(r"dashboard/hour.csv")
 
 
 def create_users_per_month(day_data):

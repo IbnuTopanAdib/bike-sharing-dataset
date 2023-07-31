@@ -19,10 +19,10 @@
 [Streamlit Dahboard](https://bike-sharing-dataset-dqpc4dhyzpuk2vmhzmbjdf.streamlit.app/)
 
 2. Screenshot of the Image
-![](./assets/1.png)
-![](./assets/2.png)
-![](./assets/3.png)
-![](./assets/4.png)
+![](https://github.com/IbnuTopanAdib/bike-sharing-dataset/blob/main/assets/1.png?raw=true)
+![](https://github.com/IbnuTopanAdib/bike-sharing-dataset/blob/main/assets/2.png?raw=true)
+![](https://github.com/IbnuTopanAdib/bike-sharing-dataset/blob/main/assets/3.png?raw=true)
+![](https://github.com/IbnuTopanAdib/bike-sharing-dataset/blob/main/assets/4.png?raw=true)
 
 
 
